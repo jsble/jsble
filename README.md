@@ -1,4 +1,4 @@
-👋 Welcome, I'm JS
+Welcome, I'm JS 👋 
 
 <!---
 - 👀 I’m interested in ...
