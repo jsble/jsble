@@ -1,1 +1,1 @@
-### Hi there, I'm JS 👋
+### Hey there 👋
