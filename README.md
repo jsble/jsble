@@ -1,3 +1,3 @@
 ### Welcome!
 
-I'm Josef, cybersec engineer.
+I'm Josef, currently a cybersec engineer.
